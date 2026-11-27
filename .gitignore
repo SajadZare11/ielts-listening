@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+temp_downloads/
+.DS_Store
+Thumbs.db
